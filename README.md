@@ -10,7 +10,7 @@
 
 我希望能够在这里结识更多志同道合的朋友，一起分享学习经验和交流想法。如果你也对编程或者游戏开发感兴趣，我很乐意与你交流。
 
-期待与大家建立联系！
+期待与大家建立联系！你可以在Bilibili上搜索我的同名账号并给我一定的联系与支持。
 
 ## English
 
@@ -22,4 +22,4 @@ Apart from coding, I am also interested in various art forms such as writing and
 
 I hope to meet like-minded friends here, share learning experiences, and exchange ideas. If you are also interested in programming or game development, I would be delighted to connect with you.
 
-Looking forward to connecting with all of you!
+Looking forward to connecting with all of you! You can search for the account "D. A. Koi" on Discord, send me a private message, and explain the purpose of your message.
