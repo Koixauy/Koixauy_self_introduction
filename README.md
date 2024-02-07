@@ -14,7 +14,7 @@
 
 ## English
 
-Hello everyone, I am **Deanzbilang**, also known as "我是K小鱼" in Chinese. You can also call me **i am k little fish** (iaklf, kxy), **Diantsibylon Aqualyte Koi** (D. A. Koi), etc. It's a pleasure to have the opportunity to introduce myself.
+Hello everyone, I am **Koixauy**, also known as "我是K小鱼" in Chinese. It's a pleasure to have the opportunity to introduce myself.
 
 Currently, I am studying C++ and Gamemaker, and I have a strong interest in game development. I enjoy creating fun games and applications through programming and design. I have a passion for technology and constantly strive to improve my programming skills.
 
