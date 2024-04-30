@@ -22,4 +22,4 @@ Apart from coding, I am also interested in various art forms such as writing and
 
 I hope to meet like-minded friends here, share learning experiences, and exchange ideas. If you are also interested in programming or game development, I would be delighted to connect with you.
 
-Looking forward to connecting with all of you! You can search for the account "D. A. Koi" on Discord, send me a private message, and explain the purpose of your message.
+Looking forward to connecting with all of you! You can search for the account "Koixauy" on Discord, send me a private message, and explain the purpose of your message.
